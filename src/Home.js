@@ -2,7 +2,7 @@ import {useState} from "react";
 
 const Home= () => {
     const [name,setName]= useState("mario");
-   
+   prueba video 10
     const [age,setAge]= useState("30");
     const handleClick=()=>{
         setName("luigi");  
