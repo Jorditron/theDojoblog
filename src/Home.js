@@ -4,7 +4,7 @@ const Home= () => {
     const [name,setName]= useState("mario");
    
     const [age,setAge]= useState("30");
-    const hundleClick=()=>{
+    const handleClick=()=>{
         setName("luigi");  
         setAge("25");   
            
@@ -18,7 +18,7 @@ const Home= () => {
         <div className="home">
             <h2>Homepage</h2>
             <p>{name} is {age} years old</p>
-            <button onClick={hundleClick}>Click me</button>
+            <button onClick={handleClick}>Click me</button>
          </div>
      );
 }
