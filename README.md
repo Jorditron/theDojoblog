@@ -2,6 +2,8 @@ Esto es una prueba de nueva branch
 
 este tutorial es de iamshuan: https://github.com/iamshaunjp/Complete-React-Tutorial
 
+a partir del video 17 la base de datos json está en   http://localhost:8000/blogs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
